@@ -1,0 +1,18 @@
+.nav-item {
+    list-style: none;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    padding: 0 4px;
+}
+
+nav {
+    background-color: green;
+    padding: 10px;
+}
+
+#nav-container {
+    display: flex;
+}
